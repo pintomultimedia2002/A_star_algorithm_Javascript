@@ -1,6 +1,8 @@
 # Visualizador del Algoritmo A* (A-Star) / A* Algorithm Visualizer
 
-*(Reemplaza `ruta/a/tu/imagen.png` con la ruta real de tu imagen)*
+Prueba la aplicación aquí: https://pintomultimedia2002.github.io/A_star_algorithm_Javascript/
+
+![1](./wampus-ia.png)
 
 ---
 
@@ -43,6 +45,10 @@ Es una herramienta ideal para estudiantes y desarrolladores que deseen comprende
 ---
 
 ## 🇺🇸 English Version
+
+Test the program here: https://pintomultimedia2002.github.io/A_star_algorithm_Javascript/
+
+![1](./wampus-ia.png)
 
 ### 📖 Description
 
